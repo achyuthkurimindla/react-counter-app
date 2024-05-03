@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inner-div {
+  display: contents;
+}
+.click-me-button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 6px;
+}
+.number {
+  color: #c20a72;
+}
+h1 {
+  padding: 10px;
+}
